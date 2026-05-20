@@ -16,7 +16,8 @@ Model 723 fotoğraflı bir veri seti üzerinde 30 Epoch eğitilmiştir.
 - **Precision (Kesinlik):** %96.9
 - **Recall (Duyarlılık):** %89.0
 <img width="3000" height="2250" alt="confusion_matrix_normalized" src="https://github.com/user-attachments/assets/373fbc46-6a7b-4505-b001-fd0c5a8af144" />
-<img width="3000" height="2250" alt="confusion_matrix" src="https://github.com/user-attachments/assets/6665cf8b-45f0-4aff-9804-70bd3dc37777" />
+<img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/d80187df-b493-4dba-a73b-f036484510e6" />
+
 <img width="1918" height="897" alt="image" src="https://github.com/user-attachments/assets/e7f1a16d-801f-4a0b-ab91-0c1abc808429" />
 
 
